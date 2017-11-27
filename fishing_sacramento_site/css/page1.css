@@ -1,0 +1,182 @@
+html{
+    height: 100%;
+    width: 100%;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', serif;
+}
+
+
+.header{
+    background: url("http://www.delawareriverguide.net/fly%20fishing.png") no-repeat top center fixed;
+    background-size: cover;
+    height: 680px;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Arial', serif;
+}
+
+.content{
+    width: 100%;
+    height: 35%;
+    margin-top: 5%;
+    margin-left: 2%;
+    margin-bottom: 5%;
+    padding: 0;
+    -webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+    -webkit-column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+    -webkit-column-rule-style: solid; /* Chrome, Safari, Opera */
+    -moz-column-rule-style: solid; /* Firefox */
+    column-rule-style: solid;
+}
+
+
+.nav-main {
+	width: 100%;
+	background-color: #595959;
+	height: 70px;
+	color: #fff;
+}
+
+.nav-main .logo {
+	float: left;
+	height: 40px;
+	padding: 15px 30px;
+	font-size: 1.4em;
+	line-height: 40px;
+}
+
+.nav-main > ul {
+	margin: 0;
+	padding: 0;
+	float: left;
+	list-style-type: none;
+}
+
+.nav-main > ul > li {
+	float: left;
+}
+
+.nav-item {
+	display: inline-block;
+	padding: 15px 20px;
+	height: 40px;
+	line-height: 40px;
+	color: #fff;
+	text-decoration: none;
+}
+
+.nav-item:hover {
+	background-color: #595959;
+	text-decoration: none;
+	color: black;
+}
+
+.nav-content {
+	position: absolute;
+	top: 70px;
+	overflow-y: scroll;
+	background-color: #595959;
+	max-height: 0;
+}
+
+.nav-content a {
+	color: #fff;
+	text-decoration: none;
+}
+
+
+.nav-sub {
+	padding: 20px;
+}
+
+.nav-sub ul {
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+}
+
+.nav-sub ul li a {
+	display: inline-block;
+	padding: 5px 0;
+}
+
+.nav-item:focus {
+	background-color: #595959;
+}
+
+.nav-item:focus ~ .nav-content {
+	max-height: 400px;
+	-webkit-transition: max-height 0.4s ease-in;
+	-moz-transition: max-height 0.4s ease-in;
+	transition: max-height 0.4s ease-in;
+}
+
+div.polaroid {
+  width: 40%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.3);
+  margin-bottom: 25px;
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+
+
+.footer {
+    height: auto;
+    text-align: center;
+    margin-top: 11%;
+    background-color: #595959;
+    color: #fff;
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+.footer:hover {
+	color: black;
+}
+
+.fa-facebook-official {
+    position: absolute;
+}
+
+.text-box {
+    text-align: center;
+    margin-top:3em;
+}
+
+.text-box p {
+    font-size: 2em;
+    font-family: 'Arial', serif;
+}
+
+.text-box text-area {
+    width: 1em;
+}
+
+.map {
+    width: 38em;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 3em;
+}
+
+

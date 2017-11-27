@@ -1,0 +1,30 @@
+body {
+  background: #24aecd;
+}
+
+h2 {
+	text-align: center;
+}
+
+svg {
+    margin: auto;
+    width: 100%;
+}
+
+.monster {
+    width: 45px;
+    height: 174px;
+    margin: 2% auto;
+    background: url(../img/animation.svg)left center;
+    animation: play 4s steps(20) infinite;
+}
+
+img.hello {
+    margin: auto;
+    width: 50%;
+}
+
+
+@keyframes play {
+	100% { background-position: -1825px; }
+}

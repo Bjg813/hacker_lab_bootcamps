@@ -1,0 +1,170 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>JavaScript Trainer</title>
+<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+<style type="text/css">
+	body {
+		margin:0;
+		font-family: 'Roboto', sans-serif;
+	}
+	
+	.row {
+		width:100%;
+		height:auto;
+		float:left;
+	}
+	
+	.content {
+		width:800px;
+		padding:40px;
+		height:auto;
+		margin:auto;
+	}
+	
+	.grid-container {
+		width:400px;
+		height:400px;
+		float:left;
+		border:solid 1px #ccc;
+	}
+	
+	.grid-box {
+		width:80px;
+		height:80px;
+		float:left;
+	}
+	
+	.button-container {
+		width:358px;
+		height:360px;
+		padding:20px;
+		float:left;
+	}
+	
+	.button {
+		width:320px;
+		height:45px;
+		padding-top:15px;
+		float:left;
+		border:solid 1px #ccc;
+		margin:15px;
+		background-color:#fff;
+		color:#aaa;
+		text-align:center;
+		font-size:22px;
+		cursor:pointer;
+	}
+	
+	.button:hover {
+		background-color:#ccc;
+		color:#fff;
+	}
+	
+	input {
+		width:330px;
+		height:50px;
+		float:left;
+		margin:10px;
+		padding:5px 20px;
+		font-size:22px;
+	}
+	
+	.output-field {
+		width:758px;
+		height:auto;
+		border:solid 1px #ccc;
+		padding:20px;
+		font-size:22px;
+		margin:20px 0;
+		float:left;
+		color:#aaa;
+	}
+
+	#grid-3-3 {
+    background-color: brown;
+    border-bottom-right-radius: 65px;
+    border-top-left-radius: 69px;
+}
+
+
+</style>
+</head>
+
+<body>
+
+<div class="row">
+	<div class="content">
+    	<div class="grid-container" id="containerId">
+        	<div id="grid-1-1" class="grid-box"></div>
+        	<div id="grid-1-2" class="grid-box"></div>
+        	<div id="grid-1-3" class="grid-box"></div>
+        	<div id="grid-1-4" class="grid-box"></div>
+        	<div id="grid-1-5" class="grid-box"></div>
+            
+        	<div id="grid-2-1" class="grid-box"></div>
+        	<div id="grid-2-2" class="grid-box"></div>
+        	<div id="grid-2-3" class="grid-box"></div>
+        	<div id="grid-2-4" class="grid-box"></div>
+        	<div id="grid-2-5" class="grid-box"></div>
+            
+        	<div id="grid-3-1" class="grid-box"></div>
+        	<div id="grid-3-2" class="grid-box"></div>
+        	<div id="grid-3-3" class="grid-box">Click Here</div>
+        	<div id="grid-3-4" class="grid-box"></div>
+        	<div id="grid-3-5" class="grid-box"></div>
+            
+        	<div id="grid-4-1" class="grid-box"></div>
+        	<div id="grid-4-2" class="grid-box"></div>
+        	<div id="grid-4-3" class="grid-box"></div>
+        	<div id="grid-4-4" class="grid-box"></div>
+        	<div id="grid-4-5" class="grid-box"></div>
+            
+        	<div id="grid-5-1" class="grid-box"></div>
+        	<div id="grid-5-2" class="grid-box"></div>
+        	<div id="grid-5-3" class="grid-box"></div>
+        	<div id="grid-5-4" class="grid-box"></div>
+        	<div id="grid-5-5" class="grid-box"></div>
+        </div>
+        <div class="button-container">
+            <div id="button-1" class="button">
+            	#button-1
+            </div>
+            <div id="button-2" class="button">
+            	#button-2
+            </div>
+            <div id="button-3" class="button">
+            	#button-3
+            </div>
+            <div id="button-4" class="button">
+            	#button-4
+            </div>
+        </div>
+    </div>
+</div>
+<div class="row">
+	<div class="content">
+    	<div id="output" class="output-field">
+        	Click Cookie(+1)
+        </div>
+        <input id="text-1" type="text" placeholder="#text-1">
+        <input id="number-1" type="number" placeholder="#number-1">
+        <input id="text-2" type="text" placeholder="#text-2">
+        <input id="number-2" type="number" placeholder="#number-2">
+        <input id="text-3" type="text" placeholder="#text-3">
+        <input id="number-3" type="number" placeholder="#number-3">
+    </div>
+</div>
+
+<!-- JavaScript files go here. -->
+
+	<script type="text/javascript" src="lab8.js"></script>
+
+
+
+<!-- ------------------------- -->
+
+</body>
+</html>

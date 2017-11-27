@@ -1,0 +1,33 @@
+/* Carousel */
+
+.carousel{
+	margin-bottom:20px;
+}
+
+.carousel img{
+	padding:3px;
+	@include add-border(1px, #cccccc, all);
+}
+
+/* Tabs */
+
+.tab-pane{
+	padding:20px 10;
+	@include border-radius(5px);
+	margin-bottom:20px;
+}
+
+
+.tab-primary .tab-content > .tab-pane, .tab-primary .nav-tabs .nav-link.active, .tab-primary .nav-tabs .nav-item.show .nav-link {
+	@include add-background($primary-color);
+}
+
+.tab-light .tab-content > .tab-pane, .tab-light .nav-tabs .nav-link.active, .tab-light .nav-tabs .nav-item.show .nav-link{
+	@include add-background($light-color);
+}
+
+
+.nav-tabs .nav-link {
+    border:0; 
+}
+

@@ -1,0 +1,24 @@
+div {
+	width:80%;
+	height:auto;
+	margin:20px 5%;
+	padding:20px 5%;
+	background-color:#CCCCCC;
+}
+
+#heading-one {
+		font-size:24px;
+		font-family:'Arial';
+		text-align:left;
+}
+
+#heading-two {
+		font-size:24px;
+		font-family:'Arial';
+		text-align:left;
+}
+
+.content {
+		font-size:14px;
+		color:#FF530D;
+}

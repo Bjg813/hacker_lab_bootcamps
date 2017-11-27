@@ -1,0 +1,52 @@
+@import 'comapss';
+
+body {
+	background-color: #fff;
+	text-align: center;
+	font-family: sans-serif;
+	font-size: 1em;
+}
+
+/*********************************
+			FONTS & COLORS
+**********************************/
+
+.first-section {
+	background-color: green;
+}
+
+h1 {
+	font-size: 1.2em;
+	color: red;
+}
+
+p {
+	font-size: 1em;
+}
+
+ul {
+	color: pink;
+	font-size: .9em
+}
+
+li {
+	color: blue;
+    list-style: none;
+    display: inline-block;
+    padding: 0 40px 0 40px
+}
+
+
+/************************************
+			STYLE
+************************************/
+
+.first-section {
+	padding: 10px 0 30px 0;
+	background-image: url(https://media-cdn.tripadvisor.com/media/photo-s/01/7d/0a/b6/taipei-taiwan.jpg);
+	background-size: 80px 60px;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+}
+
+

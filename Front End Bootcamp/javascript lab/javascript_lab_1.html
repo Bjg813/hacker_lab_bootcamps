@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+	<script type="text/javascript">
+	var textToDisplay = 0;
+
+	function DisplayText () {
+			textToDisplay = textToDisplay + 1;
+			if (textToDisplay == 5) {
+					document.getElementById("display-element").innerHTML = "Hello World!";
+				} else {
+						document.getElementById("display-element").innerHTML = textToDisplay;
+				}
+			}
+
+
+	</script>
+
+
+
+</head>
+
+<body>
+<a href="#" onclick="DisplayText()">
+		Click Here
+	</a>
+	<div id="display-element">Hello World!</div>
+</body>
+</html>

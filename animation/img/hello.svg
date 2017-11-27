@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="674px" height="480px" viewBox="0 0 674 480" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Artboard</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M134,180.867187 L134,104 L111,104 L111,281 L134,281 L134,203.867187 L184,203.867187 L184,281 L207,281 L207,104 L184,104 L184,180.867187 L134,180.867187 Z" id="path-1"></path>
+        <rect id="path-2" x="300" y="100" width="17" height="180" rx="2"></rect>
+        <rect id="path-3" x="340" y="100" width="17" height="180" rx="2"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Combined-Shape">
+                <use fill="#5E9599" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <path stroke="#979797" stroke-width="1" d="M184.5,104.5 L206.5,104.5 L206.5,280.5 L184.5,280.5 L184.5,203.867187 L184.5,203.367187 L184,203.367187 L134,203.367187 L133.5,203.367187 L133.5,203.867187 L133.5,280.5 L111.5,280.5 L111.5,104.5 L133.5,104.5 L133.5,180.867187 L133.5,181.367187 L134,181.367187 L184,181.367187 L184.5,181.367187 L184.5,180.867187 L184.5,104.5 Z"></path>
+            </g>
+            <g id="Rectangle-3">
+                <use fill="#995E5E" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#979797" stroke-width="1" x="300.5" y="100.5" width="16" height="179" rx="2"></rect>
+            </g>
+            <g id="Rectangle-3-Copy">
+                <use fill="#995E5E" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <rect stroke="#979797" stroke-width="1" x="340.5" y="100.5" width="16" height="179" rx="2"></rect>
+            </g>
+            <path d="M410,280 C387.90861,280 370,259.852814 370,235 C370,210.147186 387.90861,190 410,190 C432.09139,190 450,210.147186 450,235 C450,259.852814 432.09139,280 410,280 Z M410,240 C415.522847,240 420,236.642136 420,232.5 C420,228.357864 415.522847,225 410,225 C404.477153,225 400,228.357864 400,232.5 C400,236.642136 404.477153,240 410,240 Z" id="Combined-Shape" stroke="#979797" fill="#5E9599"></path>
+            <text id="WORLD!" font-family="AmericanTypewriter-Semibold, American Typewriter" font-size="107" font-weight="500" fill="#A77FB0">
+                <tspan x="74" y="378">WORLD!</tspan>
+            </text>
+            <polygon id="Star" stroke="#979797" fill="#D6EA3E" points="252.5 260 232.221409 272.36068 236.094275 246.18034 219.68855 227.63932 242.360704 223.81966 252.5 200 262.639296 223.81966 285.31145 227.63932 268.905725 246.18034 272.778591 272.36068"></polygon>
+        </g>
+    </g>
+</svg>

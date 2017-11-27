@@ -1,0 +1,36 @@
+{
+	"version": 3,
+	"file": "../scss/main.css",
+	"sources": [
+		"../scss/main.scss",
+		"../scss/base/_variables.scss",
+		"../scss/base/_mixins.scss",
+		"../scss/base/_normalize.scss",
+		"../scss/base/_base.scss",
+		"../scss/modules/_typography.scss",
+		"../scss/modules/_blocks.scss",
+		"../scss/modules/_buttons.scss",
+		"../scss/modules/_sections.scss",
+		"../scss/modules/_components.scss",
+		"../scss/layouts/_nav.scss",
+		"../scss/layouts/_header.scss",
+		"../scss/layouts/_footer.scss"
+	],
+	"sourcesContent": [
+		"/*************************************\n\tSkyApp Bootstrap Sass Theme\n\tAuthor: Brennan Grout\n\tVersion: 0.0.1\n*************************************/\n\n/* BASE - Base styles, variables, mixins, etc. */\n\n@import 'base/_variables.scss'; \n@import 'base/_mixins.scss'; \n@import 'base/_normalize.scss'; \n@import 'base/_base.scss'; \n\n/*\tMODULES - Individual site components */\n\n@import 'modules/_typography.scss';\n@import 'modules/_blocks.scss';\n@import 'modules/_buttons.scss';\n@import 'modules/_sections.scss';\n@import 'modules/_components.scss';\n\n/*\tLAYOUTS - Page layout styles */\n\n@import 'layouts/_nav.scss';\n@import 'layouts/_header.scss';\n@import 'layouts/_footer.scss';\n\n\n\n\n\n",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		"",
+		""
+	],
+	"mappings": "AAAA;;;;sCAIsC;AAEtC,iDAAiD;AAOjD,0CAA0C;AAQ1C,kCAAkC",
+	"names": []
+}

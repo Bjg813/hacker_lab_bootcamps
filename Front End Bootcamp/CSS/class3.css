@@ -1,0 +1,25 @@
+body {
+	background-color:#d3d557;
+}
+
+div {
+	width:80%;
+	margin:auto;
+}
+
+.column {
+	width:35%;
+	height:auto;
+	margin:2.5%;
+	padding:5%;
+	background-color:#fcfe7d;
+	float:left;
+}
+
+
+
+.text-color {
+	color:#54550e;
+	
+
+}

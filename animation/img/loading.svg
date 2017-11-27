@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="608px" height="581px" viewBox="0 0 608 581" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="166" y="194" width="33" height="191" rx="16.5"></rect>
+        <rect id="path-2" x="226" y="194" width="33" height="191" rx="16.5"></rect>
+        <rect id="path-3" x="285" y="194" width="33" height="191" rx="16.5"></rect>
+        <rect id="path-4" x="346" y="194" width="33" height="191" rx="16.5"></rect>
+        <rect id="path-5" x="406" y="194" width="33" height="191" rx="16.5"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-371.000000, -244.000000)">
+            <g id="Group" transform="translate(373.000000, 246.000000)">
+                <ellipse id="Oval" stroke="#4990E2" stroke-width="4" fill="#FFFFFF" stroke-dasharray="63" cx="302" cy="288.5" rx="302" ry="288.5">
+                    
+                    <animateTransform attributeName = "transform"
+                        atrributeType = "XML"
+                        type = "rotate"
+                        from = "0 304 290.5"
+                        to = "360 304 290.5"
+                        dur = "10s"
+                        repeatCount = "indefinite" />
+                </ellipse>
+                <ellipse id="Oval-2" stroke="#979797" fill="#4990E2" cx="302" cy="289" rx="251" ry="255"></ellipse>
+                <g id="Rectangle">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#979797" stroke-width="1" x="166.5" y="194.5" width="32" height="190" rx="16"></rect>
+
+
+                         <animateTransform id="animateHere"
+                            attributeName = "transform"
+                            atrributeType = "XML"
+                            type = "translate"
+                            dur = "1s"
+                            values = "0,15;0,-15;0,15"
+                            repeatCount = "indefinite"/>
+                </g>
+                <g id="Rectangle-Copy">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#979797" stroke-width="1" x="226.5" y="194.5" width="32" height="190" rx="16"></rect>
+
+                       <animateTransform id="animateHere"
+                            attributeName = "transform"
+                            atrributeType = "XML"
+                            type = "translate"
+                            begin = ".1"
+                            dur = "1s"
+                            values = "0,15;0,-15;0,15"
+                            repeatCount = "indefinite"/>
+                </g>
+                <g id="Rectangle-Copy-2">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#979797" stroke-width="1" x="285.5" y="194.5" width="32" height="190" rx="16"></rect>
+
+                       <animateTransform id="animateHere"
+                            attributeName = "transform"
+                            atrributeType = "XML"
+                            type = "translate"
+                            begin = ".2"
+                            dur = "1s"
+                            values = "0,15;0,-15;0,15"
+                            repeatCount = "indefinite"/>
+                </g>
+                <g id="Rectangle-Copy-3">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <rect stroke="#979797" stroke-width="1" x="346.5" y="194.5" width="32" height="190" rx="16"></rect>
+
+                       <animateTransform id="animateHere"
+                            attributeName = "transform"
+                            atrributeType = "XML"
+                            type = "translate"
+                            begin = ".3"
+                            dur = "1s"
+                            values = "0,15;0,-15;0,15"
+                            repeatCount = "indefinite"/>
+                </g>
+                <g id="Rectangle-Copy-4">
+                    <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-5"></use>
+                    <rect stroke="#979797" stroke-width="1" x="406.5" y="194.5" width="32" height="190" rx="16"></rect>
+
+                       <animateTransform id="animateHere"
+                            attributeName = "transform"
+                            atrributeType = "XML"
+                            type = "translate"
+                            begin = ".4"
+                            dur = "1s"
+                            values = "0,15;0,-15;0,15"
+                            repeatCount = "indefinite"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
